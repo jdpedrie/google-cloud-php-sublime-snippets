@@ -15,3 +15,9 @@ Clone this repo in your `<Sublime Directory>/Packages` folder.
     ````
     group<tab>
     ````
+
+* Create test case template
+
+    ````
+    testcase<tab>
+    ````

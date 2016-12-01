@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ * @codingStandardsIgnoreStart
+ * $SELECTION
+ * @codingStandardsIgnoreEnd
+]]></content>
+  <tabTrigger>csignore</tabTrigger>
+</snippet>

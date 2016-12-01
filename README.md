@@ -22,6 +22,12 @@ Clone this repo in your `<Sublime Directory>/Packages` folder.
     testcase<tab>
     ````
 
+* Create Snippet test case template
+
+    ````
+    snippettest<tab>
+    ````
+
 * Add an `@expectedException` annotation (default to InvalidArgumentException)
 
     ````

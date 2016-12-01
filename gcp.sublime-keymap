@@ -1,0 +1,3 @@
+[
+  { "keys": ["F2"], "command": "cs-ignore", "args": { "name": "Packages/GoogleCloudPlatform/cs-ignore.sublime-snippet"}}
+]

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace Google\Cloud\Tests\\$1;
+namespace Google\Cloud\Tests\Snippets\\$1;
 
 use Google\Cloud\Dev\Snippet\SnippetTestCase;
 
@@ -29,7 +29,7 @@ class $3Test extends SnippetTestCase
 
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>testcase</tabTrigger>
+  <tabTrigger>snippet</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
 </snippet>

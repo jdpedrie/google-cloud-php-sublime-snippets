@@ -15,19 +15,19 @@
  * limitations under the License.
  */
 
-namespace Google\Cloud\Tests\\$1;
+namespace Google\Cloud\Tests\System\\$1;
 
 /**
  * @group $2
  */
-class $3Test extends \PHPUnit_Framework_TestCase
+class $3Test extends $4TestCase
 {
-    $0
+    $5
 }
 
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>testcase</tabTrigger>
+  <tabTrigger>system</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.python</scope> -->
 </snippet>

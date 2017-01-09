@@ -33,3 +33,16 @@ Clone this repo in your `<Sublime Directory>/Packages` folder.
     ````
     expect<tab>
     ````
+
+### Key Bindings
+
+To wrap a selection in `@codingStandardsIgnore<start|end>` annotations, add a
+key binding to your keymap file:
+
+```
+  {
+    "keys": ["ctrl+shift+i"],
+    "command": "insert_snippet",
+    "args": {"name": "Packages/GoogleCloudPlatform/coding-standards-ignore.sublime-snippet"}
+  }
+```

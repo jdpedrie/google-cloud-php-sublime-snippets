@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+@codingStandardsIgnoreStart
+* $SELECTION$1
+* @codingStandardsIgnoreEnd
+]]></content>
+  <tabTrigger>cs-ignore</tabTrigger>
+  <scope>source.php</scope>
+</snippet>
